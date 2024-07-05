@@ -1,0 +1,45 @@
+.Sidbar{
+    width: 260px;
+    height: 280vh; 
+   
+     }
+.Sidba2{
+  width: 286px;
+  height: 280vh;
+   
+}   
+    .contentSidbar{
+      display: flex;
+      margin-top: 10px;
+      padding-left: 50px;
+      text-align: center;
+      padding-top:10px;
+    }
+    .contentSidbar:hover{
+      background: #1A0733;
+      cursor: pointer;
+border-top-left-radius: 50px;
+border-bottom-left-radius: 50px;
+font-weight: bolder;
+}
+
+.hed{
+padding-top: 40px;
+padding-bottom: 10px;
+  display: flex;
+justify-content: center;
+}
+.main{
+  display: flex;
+justify-content: space-between;
+flex-grow: 2;
+}
+.h44{
+  border-radius: 10px;
+ 
+}
+.iconmass{
+border: 2px solid white;
+
+
+}
